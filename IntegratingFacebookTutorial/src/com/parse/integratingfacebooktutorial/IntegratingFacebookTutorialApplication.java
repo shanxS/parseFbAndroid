@@ -13,8 +13,8 @@ public class IntegratingFacebookTutorialApplication extends Application {
     super.onCreate();
 
     Parse.initialize(this, 
-        "YOUR_PARSE_APPLICATION_ID",
-        "YOUR_PARSE_CLIENT_ID"
+        "5BkOOyiVimxDnJBvfLGXbyxwe1YnXhaqS6eVi4NS",
+        "iSveDzbZNyIOOmuh3iiXo0tr7Lqmf2xrcUktzvKA"
     );
   }
 }
